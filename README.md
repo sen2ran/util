@@ -8,5 +8,4 @@ import NameCap from './NameCap/js
 let capitalized = NameCap("new name")
 
 consle.log(capitalized)  // New Name
-
 ```
