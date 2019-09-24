@@ -1,5 +1,5 @@
 # util
-function for JS ( Vue / React / Angular ) ES6
+function for JS  ES6
 
 ## Usage
 ```
